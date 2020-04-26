@@ -1,0 +1,14 @@
+{
+  "name": "api-platform-skurt",
+  "version": "1.0.0",
+  "description": "api of platform skurt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phest0",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
